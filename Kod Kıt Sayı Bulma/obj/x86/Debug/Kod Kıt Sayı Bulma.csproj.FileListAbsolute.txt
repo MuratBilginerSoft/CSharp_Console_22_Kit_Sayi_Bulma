@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod Kıt Sayı Bulma\Kod Kıt Sayı Bulma\bin\Debug\Kod Kıt Sayı Bulma.exe
+C:\Users\mrt_b\Desktop\Kod Kıt Sayı Bulma\Kod Kıt Sayı Bulma\bin\Debug\Kod Kıt Sayı Bulma.pdb
+C:\Users\mrt_b\Desktop\Kod Kıt Sayı Bulma\Kod Kıt Sayı Bulma\obj\x86\Debug\Kod Kıt Sayı Bulma.exe
+C:\Users\mrt_b\Desktop\Kod Kıt Sayı Bulma\Kod Kıt Sayı Bulma\obj\x86\Debug\Kod Kıt Sayı Bulma.pdb
